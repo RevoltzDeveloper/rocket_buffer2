@@ -1,0 +1,10 @@
+<meta>
+    <info author = '么Revoltz#3565' version = '1.0.0' name = 'Inventory System' description = 'Simple Inventory System' type = 'script' />
+
+    <script src = 'src/config/config.lua' type = 'shared' />
+
+    <script src = 'src/core/client/core.lua' type = 'client' cache = 'false' />
+    <script src = 'src/core/client/listener.lua' type = 'client' cache = 'false' />
+
+    <script src = 'src/core/server/server.lua' type = 'server' cache = 'false' />
+</meta> 

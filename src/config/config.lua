@@ -1,0 +1,1 @@
+URL_API = 'https://parallelum.com.br/fipe/api/v1/carros/marcas/59/modelos'
